@@ -2,9 +2,9 @@
 
 一个纯 UIKit 实现的 UISlider 换肤示例（Objective-C，2015 年工程）。
 
-![UISlider 拖动演示](docs/uislider-demo.gif)
+![UISlider 拖动演示](https://ghproxy.net/https://raw.githubusercontent.com/812602984/UISlider/master/docs/uislider-demo.gif)
 
-> 上方演示为按源码中真实布局参数（`CGRectMake(20, 220, 屏宽 - 40, 25)`）绘制的示意图，非真机截图。
+> 上方演示为按源码中真实布局参数（`CGRectMake(20, 220, 屏宽 - 40, 25)`）绘制的示意图，非真机截图。若图片未能加载（部分网络会拦截 GitHub 图片域名），可直接打开仓库内 `docs/uislider-demo.gif` 查看。
 
 ## 实现思路
 
