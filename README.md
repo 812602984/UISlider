@@ -49,4 +49,4 @@ docs/
 
 ## 作者
 
-彭少武 · [GitHub](https://github.com/812602984)
+psw · [GitHub](https://github.com/812602984)
